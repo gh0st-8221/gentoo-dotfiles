@@ -1,0 +1,3 @@
+[filechooser]
+cmd=/home/ghost/.config/yazi/yazi-wrapper.sh
+default_dir=/home/ghost
